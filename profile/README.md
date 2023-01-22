@@ -17,7 +17,7 @@
 				<tr>
 					<td style="width: 45%;">
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/1-3-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 1
 					</td>
@@ -26,7 +26,7 @@
 				<tr>
 					<td>
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/1-3-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 2
 					</td>
@@ -35,7 +35,7 @@
 				<tr>
 					<td>
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/1-3-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 3
 					</td>
@@ -44,7 +44,7 @@
 				<tr>
 					<td>
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/4-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 4
 					</td>
@@ -53,7 +53,7 @@
 				<tr>
 					<td>
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/5-7-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 5
 					</td>
@@ -62,7 +62,7 @@
 				<tr>
 					<td>
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/5-7-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 6
 					</td>
@@ -71,7 +71,7 @@
 				<tr>
 					<td>
 						<div class="float-left mr-1">
-							<img src="//static.levelleap.com/sites/escargot.chat/icons/msn/5-7-sm.png" alt=""/>
+							<img src="" alt=""/>
 						</div>
 						MSN 7
 					</td>
