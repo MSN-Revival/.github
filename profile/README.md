@@ -76,6 +76,44 @@
 						MSN 7
 					</td>
 					<td class="table-success">Not yet<sup class="ml-1"></sup></td>
-				</tr>		
-				
-				
+				</tr>
+		
+				<tr>
+					<td>
+						<div class="float-left mr-1">
+							<img src="" alt=""/>
+						</div>
+						WLM 8
+					</td>
+					<td class="table-success">Not yet<sup class="ml-1"></sup></td>
+				</tr>
+
+				<tr>
+					<td>
+						<div class="float-left mr-1">
+							<img src="" alt=""/>
+						</div>
+						WLM 9
+					</td>
+					<td class="table-success">Not yet<sup class="ml-1"></sup></td>
+				</tr>
+                                 <tr>
+					<td>
+						<div class="float-left mr-1">
+							<img src="" alt=""/>
+						</div>
+						WLM 11
+					</td>
+					<td class="table-success">Not yet<sup class="ml-1"></sup></td>
+				</tr>
+                                 <tr>
+					<td>
+						<div class="float-left mr-1">
+							<img src="" alt=""/>
+						</div>
+						WLM 12
+					</td>
+					<td class="table-success">Not yet<sup class="ml-1"></sup></td>
+				</tr>
+
+
